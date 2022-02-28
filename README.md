@@ -1,3 +1,10 @@
+
+https://minions-redux.netlify.app
+
+
+
+
+
 //wie man redux nutzen
 // Etape 1 : importer Redux
 const redux = require("redux"); //so import man in Nodejs
